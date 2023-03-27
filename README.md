@@ -1,2 +1,2 @@
 # 42-Printf
-Re-writed version of printf function in c language
+Re-writed version of stdio's printf function in c language
